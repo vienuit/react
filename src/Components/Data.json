@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "AlexD",
+        "tel": "09900939",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Tom",
+        "tel": "092344239",
+        "Permission": 3
+    },
+    {
+        "id": 3,
+        "name": "Jenni",
+        "tel": "0953478939",
+        "Permission": 2
+    },
+    {
+        "id": 4,
+        "name": "Nhi Nhi",
+        "tel": "09900939",
+        "Permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Huyền Trang",
+        "tel": "034695679",
+        "Permission": 2
+    },
+    {
+        "id": 6,
+        "name": "Xuân Quỳnh",
+        "tel": "007685669",
+        "Permission": 1
+    },
+    {
+        "id": 7,
+        "name": "Tom Cruis",
+        "tel": "0234185669",
+        "Permission": 1
+    }
+]
